@@ -1,7 +1,3 @@
-**Veja o projeto ao vivo:**
-
-[Gerador de Currículos](https://ninja1375.github.io/Gerador-de-Curriculos/)
-
 
 Este Gerador de Currículos é uma aplicação web que permite aos utilizadores criar currículos personalizados, inserindo informações pessoais e profissionais, e gerar um PDF estilizado com essas informações. A aplicação inclui funcionalidades interativas, como pré-visualização de foto de perfil e validação de campos obrigatórios.
 
@@ -64,7 +60,3 @@ A inclusão de uma foto de perfil personaliza ainda mais o currículo.
 O preenchimento automático do endereço através do CEP simplifica o processo de criação.
 
 Este Gerador de Currículos combina facilidade de uso, flexibilidade e funcionalidades avançadas, permitindo ao utilizador criar e exportar um currículo profissional em poucos minutos.
-
-## linguagens Utilizadas ##
-
-<a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
